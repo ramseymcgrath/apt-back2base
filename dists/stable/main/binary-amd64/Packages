@@ -1,0 +1,18 @@
+Package: back2base
+Version: 0.19.0
+Architecture: amd64
+Maintainer: Ramsey McGrath <ramseymcgrath@gmail.com>
+Installed-Size: 7084
+Depends: docker.io | docker-ce
+Recommends: docker-compose-plugin
+Filename: pool/main/back2base_0.19.0_linux_amd64.deb
+Size: 3058214
+MD5sum: 70936f21ffdb2f9b8990b3d1b4f293e9
+SHA1: 27c4470c2298bf7f652a078794d5707276d7c27e
+SHA256: 3ecbf637d5cf1fe837484e8e25449f3ea23b4c59e5c8dea2274dd16baaccb559
+Section: devel
+Priority: optional
+Homepage: https://github.com/ramseymcgrath/back2base
+Description: Containerized Claude Code with curated MCP servers
+Architecture-Variant: amd64v1
+
