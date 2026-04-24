@@ -6,10 +6,10 @@ Installed-Size: 7088
 Depends: docker.io | docker-ce
 Recommends: docker-compose-plugin
 Filename: pool/main/back2base_0.19.2_linux_amd64.deb
-Size: 3059798
-MD5sum: 0248af42ff1df4fb20d7778ce8f2024c
-SHA1: 52097c7529f9b193de1b6105b5a9b4b74d5eddd9
-SHA256: 2ce16a62e893c9c4226c3310468b2784dc61c49cf6b7891e4a94cb771594c99b
+Size: 3059794
+MD5sum: 234fadbdfe837fd0eff1072af0b8d45f
+SHA1: 311b41c013e9393c4e44a9f166abaa7e3ffcab76
+SHA256: 7f202a455850e4f6492a727152f745f72baea3e1c22e9e0a1ca9ca23474fd4d3
 Section: devel
 Priority: optional
 Homepage: https://back2base.net
