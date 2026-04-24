@@ -6,12 +6,12 @@ Installed-Size: 6848
 Depends: docker.io | docker-ce
 Recommends: docker-compose-plugin
 Filename: pool/main/back2base_0.19.0_linux_arm64.deb
-Size: 2841974
-MD5sum: 908a17b38ea49a12aeca6a6256d1c49b
-SHA1: ac6a3147fe8de0a0bb9796b9b7e7bd305d464248
-SHA256: e7e8e75cb6b5f585552e94ced7645fae2f100a42ad8f0a240c552e00ecf7c459
+Size: 2841966
+MD5sum: d2b303136ebf23ddc41f829c1449a257
+SHA1: e68ded01419d0a72cb6ca11f8ce906874982fb07
+SHA256: 7cfff4f457b5011f7b980f53f6a2c1fabc537a3ca06a14421c56a07413256b68
 Section: devel
 Priority: optional
-Homepage: https://github.com/ramseymcgrath/back2base
+Homepage: https://back2base.net
 Description: Containerized Claude Code with curated MCP servers
 
